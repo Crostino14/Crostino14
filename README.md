@@ -11,9 +11,3 @@
 - 🏎️ **Autonomous Vehicles**: ROS, Carla Simulator
 - 💻 **Software Development**: Python, C, C#, Java, HTML, CSS, PHP
 - 🔌 **Embedded Systems**: STM32
-
----
-
-## 📫 Contact
-
-🌐 **LinkedIn**: [linkedin.com/in/agostinocardamone](https://www.linkedin.com/in/agostino-cardamone-1b2948274/)
