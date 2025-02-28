@@ -29,8 +29,6 @@ An AI-driven robotic assistant designed for shopping malls, with **Pepper** as t
 
 🔗 [GitHub Repository](https://github.com/Crostino14/Cognitive-Robotics-Group-4)
 
----
-
 ### 🏆 **Artificial Vision Contest 2025 – AI-Powered Video Analysis**
 A project developed for the **Artificial Vision Contest 2025**, focusing on **detecting, tracking, and analyzing human behavior in videos**.
 
