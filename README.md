@@ -16,4 +16,4 @@
 
 ## 📫 Contact
 
-🌐 **LinkedIn**: [linkedin.com/in/agostinocardamone](https://linkedin.com/in/agostinocardamone)
+🌐 **LinkedIn**: [linkedin.com/in/agostinocardamone](https://www.linkedin.com/in/agostino-cardamone-1b2948274/)
