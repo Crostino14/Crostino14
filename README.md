@@ -8,6 +8,6 @@
 ## 🔧 Technical Skills
 - 🧠 **Machine Learning & AI**: PyTorch, TensorFlow, OpenCV, RASA
 - 🔍 **Computer Vision**: YOLO, OpenCV
-- 🏎️ **Autonomous Vehicles**: ROS, Carla Simulator
+- 🏎️ **Autonomous Vehicles**: ROS, Carla Simulator, Gazebo
 - 💻 **Software Development**: Python, C, C#, Java, HTML, CSS, PHP
 - 🔌 **Embedded Systems**: STM32
