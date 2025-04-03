@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-👨‍💻 **Student** in **Computer Engineering** specializing in **Artificial Intelligence** at the **University of Salerno**.  
+👨‍💻 **Student** in **Computer Engineering** specializing in **Artificial Intelligence and Intelligent Robotics** at the **University of Salerno**.  
 🚗 Passionate about **automotive technologies** and **robotics**, with a strong focus on developing AI solutions for **autonomous systems**.
 
 ---
