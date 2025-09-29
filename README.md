@@ -26,38 +26,6 @@
 ![OpenMP](https://img.shields.io/badge/OpenMP-0080FF?style=flat&logo=openmp&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
-## 🏛️ My Projects
-
-### 🚗 Autonomous Vehicle Driving Project
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/Autonomous-Vehicle-Driving-Project)
-Development of an autonomous vehicle system using ROS for navigation and control. 
-Implements obstacle avoidance, path planning algorithms, and sensor integration.
-Features simulation in Gazebo with real-time decision making for safe autonomous driving.
-
-### 🤖 Mobile Robots For Critical Mission Project  
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/Mobile-Robots-For-Critical-Mission-Project)
-Multi-robot system for critical missions with coordinated exploration and task allocation.
-Implements swarm intelligence algorithms for efficient area coverage and communication.
-Uses Gazebo for simulation with focus on reliability in emergency scenarios.
-
-### 🧠 Cognitive Robotics Project
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/Cognitive-Robotics-Project)
-AI-driven robotic system combining perception, reasoning and action for intelligent behavior.
-Implements cognitive architectures for decision making in dynamic environments.
-Features computer vision integration and adaptive learning capabilities.
-
-### 🔒 AI For Cybersecurity Project
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/AI-For-Cybersecurity-Project)
-Machine learning approaches for network security and cyber threat detection.
-Implements anomaly detection algorithms and classification models for intrusion detection.
-Analyzes network traffic patterns to identify potential security breaches.
-
-### ⚡ RBTree Search Project
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/RBTree-Search-Project)
-High-performance implementation of Red-Black Tree search algorithms with parallel computing.
-Compares performance of sequential vs parallel approaches using MPI, OpenMP and CUDA.
-Benchmarks search operations on large datasets with detailed performance analysis.
-
 ### 📈 Big Data Project
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/Big-Data-Project)
 Distributed data processing system using Hadoop MapReduce and Apache Spark.
