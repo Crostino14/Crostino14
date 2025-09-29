@@ -26,10 +26,4 @@
 ![OpenMP](https://img.shields.io/badge/OpenMP-0080FF?style=flat&logo=openmp&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
-### 📈 Big Data Project
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat)](https://github.com/Crostino14/Big-Data-Project)
-Distributed data processing system using Hadoop MapReduce and Apache Spark.
-Implements large-scale data analytics pipelines for processing massive datasets.
-Focuses on optimization techniques and performance evaluation of big data frameworks.
-
 ---
