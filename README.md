@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
-**Student** in **Computer Engineering** specializing in **Artificial Intelligence and Intelligent Robotics** at the **University of Salerno**.   
-Passionate about **automotive technologies** and **robotics**.
+**Student** in **Computer Engineering** specializing in **Artificial Intelligence and Intelligent Robotics** 👨‍💻 at the **University of Salerno** 🎓.   
+Passionate about **automotive technologies** 🚗 and **robotics** 🤖.
 
 <div align="center">
   <img src="https://mymadreams.com/wp-content/uploads/2020/11/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_32f1fc1b-c9dd-42a3-b788-0b16629301b9_2048x1336.jpeg" alt="Inspirational Quote" width="600" />
