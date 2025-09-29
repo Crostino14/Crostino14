@@ -3,6 +3,12 @@
 👨‍💻 **Student** in **Computer Engineering** specializing in **Artificial Intelligence and Intelligent Robotics** at the **University of Salerno**.  
 🚗 Passionate about **automotive technologies** and **robotics**.
 
+<div align="center">
+  <img src="https://mymadreams.com/wp-content/uploads/2020/11/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_32f1fc1b-c9dd-42a3-b788-0b16629301b9_2048x1336.jpeg" alt="Inspirational Quote" width="600" />
+  
+  *"You got the makings of greatness in you, but you got to take the helm and chart your own course. Stick to it, no matter the squalls! And when the time comes you get the chance to really test the cut of your sails, and show what you're made of..."*
+</div>
+
 ## 🛠️ Tech Stack
 **Programming & Development**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
