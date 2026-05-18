@@ -3,7 +3,7 @@
 I'm an MSc graduate in Computer Engineering from the University of Salerno, specialized in **Artificial Intelligence & Intelligent Robotics**.   
 I'm passionate about **automotive technologies** 🚗 and **robotics** 🤖.
 
-Based in Cava de TIrreni, Campania, Italy - Open to AI & Robotics opportunities.
+Based in Cava de Tirreni, Campania, Italy - Open to AI & Robotics opportunities.
 
 <div align="center">
   <img src="https://mymadreams.com/wp-content/uploads/2020/11/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_32f1fc1b-c9dd-42a3-b788-0b16629301b9_2048x1336.jpeg" alt="Inspirational Quote" width="600" />
