@@ -12,11 +12,6 @@
 
 I am a **Artificial Intelligence Engineer** with a Master of Science in Computer Engineering (AI & Intelligent Robotics) from the **University of Salerno**. I'm passionate about **automotive technologies** and **robotics**.
 
-<p align="center">
-  📌 Based in Cava de Tirreni, Campania, Italy
-</p>
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" /> Tech Stack
 
 <p align="center">
