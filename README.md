@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?font=JetBrains+Mono&type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Agostino%20Cardamone&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?font=JetBrains+Mono&type=waving&color=7C3AED&height=200&section=header&text=Agostino%20Cardamone&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -257,5 +257,5 @@ against 19 test scenarios using MATLAB Test Harness before deployment on the
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&animation=fadeIn" />
 </p>
